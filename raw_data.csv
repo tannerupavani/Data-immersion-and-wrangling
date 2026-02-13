@@ -1,0 +1,11 @@
+CustomerID,CustomerName,Email,Gender,Date_of_Birth,TransactionDate,Product,Quantity,Price
+1001,John Smith,john.smith@email.com,Male,1990-05-15,2024-01-10,Laptop,1,750
+1002,Emily Davis,emily.davis@email.com,Female,1985-08-22,2024-01-11,Phone,2,500
+1003,Michael Brown,michael.b@email.com,Male,1992-03-12,2024-01-12,Headphones,3,80
+1004,Sarah Wilson,sarah.w@email.com,Female,1988-11-30,2024-01-12,Tablet,1,300
+1005,David Lee,david.lee@email.com,Male,1995-07-19,2024-01-13,Laptop,1,750
+1006,Olivia Taylor,olivia.t@email.com,Female,1993-02-10,2024-01-14,Phone,1,500
+1007,Daniel Harris,daniel.h@email.com,Male,1987-09-25,2024-01-15,Monitor,2,200
+1008,Sophia Clark,sophia.c@email.com,Female,1991-12-05,2024-01-15,Keyboard,4,40
+1009,James Lewis,james.l@email.com,Male,1989-04-18,2024-01-16,Mouse,5,25
+1010,Mia Walker,mia.w@email.com,Female,1994-06-28,2024-01-17,Laptop,1,750

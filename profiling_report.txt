@@ -1,0 +1,41 @@
+========= DATA QUALITY REPORT =========
+
+
+Missing Values:
+
+CustomerID         0
+CustomerName       0
+Email              0
+Gender             0
+Date_of_Birth      0
+TransactionDate    0
+Product            0
+Quantity           0
+Price              0
+dtype: int64
+
+
+Duplicate Records:
+
+0
+
+
+Data Types:
+
+CustomerID          int64
+CustomerName       object
+Email              object
+Gender             object
+Date_of_Birth      object
+TransactionDate    object
+Product            object
+Quantity            int64
+Price               int64
+dtype: object
+
+
+Outlier Check (Numerical Columns):
+
+CustomerID: 0 outliers
+Quantity: 0 outliers
+Price: 0 outliers
